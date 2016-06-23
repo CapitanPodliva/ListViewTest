@@ -1,0 +1,11 @@
+<project>
+ <properties winrt_package="com.yourdomain.yourapp" assetsOnly="0" osx_org="GiderosMobile" logicalHeight="480" logicalWidth="320" windowWidth="0" osx_bundle="com.yourdomain." version_code="1" orientation="0" iosDevice="0" autorotation="0" osx_domain="giderosmobile.com" retinaDisplay="0" touchToMouse="1" architecture="0" html5_host="" html5_mem="256" windowHeight="0" mouseTouchOrder="0" win_domain="giderosmobile.com" mouseToTouch="1" scaleMode="0" osx_category="5" fps="60" version="1.0" encryptAssets="0" win_org="GiderosMobile" app_icon_noexport="0" ios_bundle="com.yourdomain." encryptCode="0" android_template="0" packageName="com.yourdomain.yourapp" winrt_org="GiderosMobile" app_icon="">
+  <imageScales/>
+  <plugins/>
+  <exports/>
+ </properties>
+ <file source="test.png"/>
+ <file source="kitty.jpg"/>
+ <file source="ListView.lua"/>
+ <file source="main.lua"/>
+</project>

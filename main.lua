@@ -1,0 +1,5 @@
+local pic = Bitmap.new(Texture.new("test.png", true))
+--pic:setAnchorPoint(0.5, 0.5)
+pic:setPosition(1, 1)
+local list = ListView.new(pic:getWidth(), pic:getHeight(), pic)
+stage: addChild(list)
